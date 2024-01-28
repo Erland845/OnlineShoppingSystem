@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShoppingSystem", "OnlineShoppingSystem.csproj", "{6FC3ED02-D52F-4639-918F-D11F96D10F2E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{837DFF9C-7952-4EE8-8142-67B0FD241C59}"
+	ProjectSection(SolutionItems) = preProject
+		Bankaccount.cs = Bankaccount.cs
+		Product.cs = Product.cs
+		ShoppingCart.cs = ShoppingCart.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FC3ED02-D52F-4639-918F-D11F96D10F2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC3ED02-D52F-4639-918F-D11F96D10F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC3ED02-D52F-4639-918F-D11F96D10F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC3ED02-D52F-4639-918F-D11F96D10F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3BCF33A-D584-4A37-BE0A-5FFCE7850B58}
+	EndGlobalSection
+EndGlobal
